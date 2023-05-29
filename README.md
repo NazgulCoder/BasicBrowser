@@ -1,5 +1,5 @@
-# BasicBrowser [![Build status](https://ci.appveyor.com/api/projects/status/vk3okvf6qmlpykgx)](https://ci.appveyor.com/project/Walkman100/basicbrowser)
-A simple tabbed browser coded in Vb.Net
+# BasicBrowser - FORKED [![Build status](https://ci.appveyor.com/api/projects/status/vk3okvf6qmlpykgx)](https://ci.appveyor.com/project/Walkman100/basicbrowser)
+I decided to Fork this webbrowser to show the great potential of it and due to personal needs. I recently discovered that 99% of existing NVRs still use ActiveX and require Internet Explorer. Don't fall for IE Tab, it is NOT free anymore, and it is not open source.
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Walkman100/Walkman?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
